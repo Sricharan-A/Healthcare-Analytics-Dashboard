@@ -59,10 +59,10 @@ This Power BI dashboard provides a comprehensive overview of healthcare data, in
 ### Page 1: Dashboard Overview
 ![Page 1](https://github.com/Sricharan-A/Healthcare-Analytics-Dashboard/blob/main/page.1.jpeg)
 
-### Page 2: Patient Insights
+### Page 2: Medical Conditions Breakdown 
 ![Page 2](https://github.com/Sricharan-A/Healthcare-Analytics-Dashboard/blob/main/page.2.jpeg.png)
 
-### Page 3: Medical Conditions Breakdown
+### Page 3:Patient Insights
 ![Page 3](https://github.com/Sricharan-A/Healthcare-Analytics-Dashboard/blob/main/page.3.png)
 
 
